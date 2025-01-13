@@ -14,8 +14,8 @@ DELAY_SECONDS = 2  # Delay between emails (10 seconds after success)
 BATCH_SIZE = 10 # Process two recipients at a time per batch
 
 # Proxy Configuration (Updated)
-username = "52xrymt17qdjxdn"
-password = "00h90dhkmyeephq"
+username = ""
+password = ""
 proxy_host = "rp.proxyscrape.com:6060"
 proxy_auth = f"{username}:{password}@{proxy_host}"
 
